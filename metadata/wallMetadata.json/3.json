@@ -1,0 +1,11 @@
+{
+  "name": "Globe_Wall #3",
+  "description": "Wall for Globe NFT",
+  "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmRoWLeqbiV7ShiPsbwifBr2Sd4c2jwEwa52FUzNuuu6HW/Wall-03-Orange-10.png",
+  "attributes": [
+    {
+      "trait_type": "Wall",
+      "value": "Orange"
+    }
+  ]
+}

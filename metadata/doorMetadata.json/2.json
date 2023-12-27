@@ -1,0 +1,11 @@
+{
+  "name": "Globe_Door #2",
+  "description": "Door for Globe NFT",
+  "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/Qmdg3ko4qdDHbJDL2yBBeDwk6dyBAk2nwDKByKgmepU8qL/Door-02-Red-15.png",
+  "attributes": [
+    {
+      "trait_type": "Door",
+      "value": "Red"
+    }
+  ]
+}

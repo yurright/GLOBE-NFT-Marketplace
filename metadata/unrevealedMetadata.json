@@ -1,0 +1,11 @@
+{
+  "name": "Globe_House Unrevealed",
+  "description": "Collect all the Parts to Reveal House NFT",
+  "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmPpbqLzWSY6qjQ9uJ1Trgn2vDoxptfgQzrNkd2zHAP1Qv",
+  "attributes": [
+    {
+      "trait_type": "isRevealed",
+      "value": "False"
+    }
+  ]
+}

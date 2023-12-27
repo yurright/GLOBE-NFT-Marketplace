@@ -1,0 +1,6171 @@
+[
+  {
+    "name": "Globe House NFT #1",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/1.png",
+    "dna": "cde21c17c21e8071f4f23746c295ede5a3f0d93f",
+    "edition": 1,
+    "date": 1702740983108,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #2",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/2.png",
+    "dna": "de1ba707512b8048142d00e7cec8d939692c3274",
+    "edition": 2,
+    "date": 1702740983140,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #3",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/3.png",
+    "dna": "dff2c06a0d0a008de222913e5b95d7755d6c6284",
+    "edition": 3,
+    "date": 1702740983170,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #4",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/4.png",
+    "dna": "04fb1084bfc3c46628c73893256ee8eef808c996",
+    "edition": 4,
+    "date": 1702740983199,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #5",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/5.png",
+    "dna": "472a9e24137faa4414cb2de81d35def3f2274d02",
+    "edition": 5,
+    "date": 1702740983229,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #6",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/6.png",
+    "dna": "212f4cc27c14dd67b79f094a2658150455c9494f",
+    "edition": 6,
+    "date": 1702740983258,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #7",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/7.png",
+    "dna": "08842734550499184f0f4b02885672afa28634b7",
+    "edition": 7,
+    "date": 1702740983288,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #8",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/8.png",
+    "dna": "8506f982a0d66d162f789e0fc00cfef24fe46992",
+    "edition": 8,
+    "date": 1702740983320,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #9",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/9.png",
+    "dna": "8803341112895025834ddbad6d7b943d3195fad4",
+    "edition": 9,
+    "date": 1702740983349,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #10",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/10.png",
+    "dna": "52d94391ececd4afee2d34a972f3e5caf0ec224a",
+    "edition": 10,
+    "date": 1702740983378,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #11",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/11.png",
+    "dna": "4bbeb523c4ebc840d4499a3ef9933beeac3c3db5",
+    "edition": 11,
+    "date": 1702740983407,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #12",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/12.png",
+    "dna": "859731104eb289c0fa4fee0a95dfe6d7f8972a56",
+    "edition": 12,
+    "date": 1702740983437,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #13",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/13.png",
+    "dna": "e35cae600bec73dccbed74da46194b7a0a217503",
+    "edition": 13,
+    "date": 1702740983472,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #14",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/14.png",
+    "dna": "63379a78de1676cc8ef1d1e40ab07e5fb0e548ce",
+    "edition": 14,
+    "date": 1702740983499,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #15",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/15.png",
+    "dna": "33ad21201a9bcd462c32a4aee01af60f0bbf617f",
+    "edition": 15,
+    "date": 1702740983527,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #16",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/16.png",
+    "dna": "94976ded61ab773b1ca72f1a0eff99dc44c61d5c",
+    "edition": 16,
+    "date": 1702740983555,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #17",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/17.png",
+    "dna": "595d97c79f901e88a6cd3abfc737729c125a17b2",
+    "edition": 17,
+    "date": 1702740983584,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #18",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/18.png",
+    "dna": "80353767d1066180b5a1f69336c56064791deb46",
+    "edition": 18,
+    "date": 1702740983613,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #19",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/19.png",
+    "dna": "d3a6d9b1e6db54d5cea44c0c197f287ca3e4a3e1",
+    "edition": 19,
+    "date": 1702740983643,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #20",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/20.png",
+    "dna": "6bd8a0655adfbf64c6a67a7eb5100a4c3df24f0a",
+    "edition": 20,
+    "date": 1702740983673,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #21",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/21.png",
+    "dna": "5b7a95d14c3da6556466e5240b5365da1f8dce0f",
+    "edition": 21,
+    "date": 1702740983703,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #22",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/22.png",
+    "dna": "a7cdb745fd0bdcd172ea543e12d8a681e50e496f",
+    "edition": 22,
+    "date": 1702740983734,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #23",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/23.png",
+    "dna": "ac24f03714315d446dd4d7bbd666ea563cbf8931",
+    "edition": 23,
+    "date": 1702740983763,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #24",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/24.png",
+    "dna": "1237e0826d53756571d6ab0fb8860b6032264600",
+    "edition": 24,
+    "date": 1702740983793,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #25",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/25.png",
+    "dna": "3766dae2c3f7ebea8ff937f86b732621ff7762c1",
+    "edition": 25,
+    "date": 1702740983822,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #26",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/26.png",
+    "dna": "dc684d9e45e8f03fdadb80b24c9b98a908f38e68",
+    "edition": 26,
+    "date": 1702740983859,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #27",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/27.png",
+    "dna": "93c4205a5f1e1cf1bd94b0fde4519e7be98b4e50",
+    "edition": 27,
+    "date": 1702740983886,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #28",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/28.png",
+    "dna": "7b6b7ac4de27a2666bf0e0e6cbcd6282e13697c3",
+    "edition": 28,
+    "date": 1702740983914,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #29",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/29.png",
+    "dna": "a45dab7d6df086d5613cdae183c04777bea9b39b",
+    "edition": 29,
+    "date": 1702740983941,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #30",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/30.png",
+    "dna": "c6e873a8ae2e85fc3d5d6eb2b9baf89571918911",
+    "edition": 30,
+    "date": 1702740983971,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #31",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/31.png",
+    "dna": "51528e9c79757ee4eb46e689e2f21ffa4a4b4844",
+    "edition": 31,
+    "date": 1702740984001,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #32",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/32.png",
+    "dna": "bfde2c6b96c6ca68c7085328db0322143cdedae6",
+    "edition": 32,
+    "date": 1702740984030,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #33",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/33.png",
+    "dna": "fe3395b1cffbc23cc40c6ef81547f71d016f95d3",
+    "edition": 33,
+    "date": 1702740984060,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #34",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/34.png",
+    "dna": "62567c3eba00fff1c1a93da11d9813b1c943b1e4",
+    "edition": 34,
+    "date": 1702740984090,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #35",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/35.png",
+    "dna": "3317ee9af40f6c0f8e1358fcf473de12213e337f",
+    "edition": 35,
+    "date": 1702740984123,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #36",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/36.png",
+    "dna": "73e59e4814afe130dd939690ef03c135b5e3e3ed",
+    "edition": 36,
+    "date": 1702740984157,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #37",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/37.png",
+    "dna": "0147ae422753d249654a891ccd008a280536a640",
+    "edition": 37,
+    "date": 1702740984193,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #38",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/38.png",
+    "dna": "e0a8c44fd335f17e2c9857bb46bfc687e75d682f",
+    "edition": 38,
+    "date": 1702740984225,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #39",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/39.png",
+    "dna": "43f98f6db343edd34a8c0601ce782a2906e86b1d",
+    "edition": 39,
+    "date": 1702740984263,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #40",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/40.png",
+    "dna": "f2973d2f41b532108770fa46f2cd0c49ca9a92c1",
+    "edition": 40,
+    "date": 1702740984293,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #41",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/41.png",
+    "dna": "daf83c310f8a0ed143b8f7be0e9ce65e2899a62d",
+    "edition": 41,
+    "date": 1702740984322,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #42",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/42.png",
+    "dna": "2eaa11f34e701f4ef120ad6e9a792d5f3e2a2364",
+    "edition": 42,
+    "date": 1702740984351,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #43",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/43.png",
+    "dna": "21dd0924c3d345c9fa981ee9b64ffd97873ba511",
+    "edition": 43,
+    "date": 1702740984380,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #44",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/44.png",
+    "dna": "e06ab15565cb0f5919f8d7c2c84be451de0e169c",
+    "edition": 44,
+    "date": 1702740984410,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #45",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/45.png",
+    "dna": "1abf504b913163545c690d8603a4c70ddfa138a7",
+    "edition": 45,
+    "date": 1702740984439,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #46",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/46.png",
+    "dna": "6b2338b83ecc571c9a323d39e4d6581dfad15d8e",
+    "edition": 46,
+    "date": 1702740984468,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #47",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/47.png",
+    "dna": "8f7c27d97310c8d50752995bf7ada9ea4cf61a4f",
+    "edition": 47,
+    "date": 1702740984497,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #48",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/48.png",
+    "dna": "2220ffdc9f3f3bf763d3b0504889f92d340eaae3",
+    "edition": 48,
+    "date": 1702740984526,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #49",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/49.png",
+    "dna": "e226eb4f74954a3e8b7569088024200eaf30aece",
+    "edition": 49,
+    "date": 1702740984555,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #50",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/50.png",
+    "dna": "23094dcd261b760adeab4cacecb0578657de0435",
+    "edition": 50,
+    "date": 1702740984585,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #51",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/51.png",
+    "dna": "3f0a70763d1b9310481eedf41cb07a785d25eba4",
+    "edition": 51,
+    "date": 1702740984613,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #52",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/52.png",
+    "dna": "61c63038d68efd5bb93ee775117f931d8261740e",
+    "edition": 52,
+    "date": 1702740984649,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #53",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/53.png",
+    "dna": "f1d9c8e773c7abd412acfbd3b84ab0cee95a4352",
+    "edition": 53,
+    "date": 1702740984676,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #54",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/54.png",
+    "dna": "7f17c3ec85d87b2fa0ec07242644a65b5c1b11b7",
+    "edition": 54,
+    "date": 1702740984702,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #55",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/55.png",
+    "dna": "2f5c07a8483b9fdf2c0ff6481925ed3acc1371cf",
+    "edition": 55,
+    "date": 1702740984729,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #56",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/56.png",
+    "dna": "6f7d05b9761f4e70cac2f4cb071b06029641d847",
+    "edition": 56,
+    "date": 1702740984758,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #57",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/57.png",
+    "dna": "4e1f26bfec9716a211df53aba87aa8461dcd10a1",
+    "edition": 57,
+    "date": 1702740984790,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #58",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/58.png",
+    "dna": "ffe670f9961730f70a47e33c7a6401d8cde4aa85",
+    "edition": 58,
+    "date": 1702740984820,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #59",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/59.png",
+    "dna": "95c4beea371790ee495c3ba38e94f48d7090f153",
+    "edition": 59,
+    "date": 1702740984850,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #60",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/60.png",
+    "dna": "18d039664bbfc88baf6ee325178ae6fae8254dbb",
+    "edition": 60,
+    "date": 1702740984878,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #61",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/61.png",
+    "dna": "3b1d0ec89aaf7a40ad47981b9178a2a8ff32e679",
+    "edition": 61,
+    "date": 1702740984907,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #62",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/62.png",
+    "dna": "13ef2a8e5fe336ccdc8050d122520b72b19b72c2",
+    "edition": 62,
+    "date": 1702740984937,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #63",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/63.png",
+    "dna": "2d65f0dc515992a6cf894d762d14e45c5a8e96f3",
+    "edition": 63,
+    "date": 1702740984966,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #64",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/64.png",
+    "dna": "69399cd455022e30ba595f50a324074872d992a4",
+    "edition": 64,
+    "date": 1702740984995,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #65",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/65.png",
+    "dna": "ca90d367abe1ce3ab75a41eecdbb6bfcd965b7fb",
+    "edition": 65,
+    "date": 1702740985030,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #66",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/66.png",
+    "dna": "4f5cdb3b975fa8c11717af9ba25f9d94e78b51f8",
+    "edition": 66,
+    "date": 1702740985057,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #67",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/67.png",
+    "dna": "05fbf5127aa8f410591cb4b0b639a7a965c66335",
+    "edition": 67,
+    "date": 1702740985083,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #68",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/68.png",
+    "dna": "f73cd745d986e36b457efb96646acb6fda3370c2",
+    "edition": 68,
+    "date": 1702740985110,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #69",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/69.png",
+    "dna": "579d5217dd48c74024d86279c348116a6de0b520",
+    "edition": 69,
+    "date": 1702740985139,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #70",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/70.png",
+    "dna": "e5a90350ff8f22bf3d1197505047865e94736334",
+    "edition": 70,
+    "date": 1702740985168,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #71",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/71.png",
+    "dna": "9bc582ee2517d71b6507fe7e0680a25ac815dc56",
+    "edition": 71,
+    "date": 1702740985197,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #72",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/72.png",
+    "dna": "22a7a2369d8c785d3144aa26646b3cf97756b00e",
+    "edition": 72,
+    "date": 1702740985227,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #73",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/73.png",
+    "dna": "065f43470cce8e54f519172885ea09c0fddd0b9b",
+    "edition": 73,
+    "date": 1702740985256,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #74",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/74.png",
+    "dna": "326a792bce7134cdb3bf1b779ebabd91a5809564",
+    "edition": 74,
+    "date": 1702740985285,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #75",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/75.png",
+    "dna": "8e01c264ed0793489c2feac9c0b5c041c0421e89",
+    "edition": 75,
+    "date": 1702740985314,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #76",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/76.png",
+    "dna": "aa0918ac7053307509b5b913645b66673e4be577",
+    "edition": 76,
+    "date": 1702740985372,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #77",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/77.png",
+    "dna": "a951cc73c57a3277da06b69eed60cf9da18378e9",
+    "edition": 77,
+    "date": 1702740985404,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #78",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/78.png",
+    "dna": "e14ed16458894b8b2ea54f66cc8371344d135d34",
+    "edition": 78,
+    "date": 1702740985440,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #79",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/79.png",
+    "dna": "e7c3d9e52dd525521e134a41442ac7e2599ef54a",
+    "edition": 79,
+    "date": 1702740985469,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #80",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/80.png",
+    "dna": "c23a16b7ef34de47535b0c75d48f3d2fd379a6d9",
+    "edition": 80,
+    "date": 1702740985496,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #81",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/81.png",
+    "dna": "9e933efde75584fc59081c4864a26b894a2a6128",
+    "edition": 81,
+    "date": 1702740985523,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #82",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/82.png",
+    "dna": "7545941818d3e7c21156cb0b6fb0319f6ec31eac",
+    "edition": 82,
+    "date": 1702740985551,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #83",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/83.png",
+    "dna": "3bab92cb62dddf8ef62c566412dea52b3968b00f",
+    "edition": 83,
+    "date": 1702740985580,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #84",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/84.png",
+    "dna": "490ff5f7d9f71e675d3c94ac2527d2b08bf90e7f",
+    "edition": 84,
+    "date": 1702740985609,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #85",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/85.png",
+    "dna": "6e4395972303322277083d1eb9871ffd55757701",
+    "edition": 85,
+    "date": 1702740985638,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #86",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/86.png",
+    "dna": "c2dcfbe177a45a9eda832a3005d46427a98c3a78",
+    "edition": 86,
+    "date": 1702740985668,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #87",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/87.png",
+    "dna": "2fb8ebde9798fc20b1abda0174f9a754970b7da2",
+    "edition": 87,
+    "date": 1702740985698,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #88",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/88.png",
+    "dna": "49477804db5207b9798840fb043ed09770c13d16",
+    "edition": 88,
+    "date": 1702740985728,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #89",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/89.png",
+    "dna": "4fd14d404abfd0f4933cf83ed047b78b12b1663d",
+    "edition": 89,
+    "date": 1702740985757,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #90",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/90.png",
+    "dna": "69bc74058d01a0aa5bf90d05182c919e9e414ea4",
+    "edition": 90,
+    "date": 1702740985787,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #91",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/91.png",
+    "dna": "9a892093f346cfab1ce57aef1f77aa91a14fcc14",
+    "edition": 91,
+    "date": 1702740985823,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #92",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/92.png",
+    "dna": "a3e8347b7a133e048edb25f9ed706b7b7d7c42ca",
+    "edition": 92,
+    "date": 1702740985852,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #93",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/93.png",
+    "dna": "3b65ff752b2111e4f284f4421df065a369ebcfbb",
+    "edition": 93,
+    "date": 1702740985879,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #94",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/94.png",
+    "dna": "4ebf6ddd2791449d4390be55da1de89186e323ac",
+    "edition": 94,
+    "date": 1702740985906,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #95",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/95.png",
+    "dna": "c337290495897edbd45fcab94bd86c6c2903992f",
+    "edition": 95,
+    "date": 1702740985935,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #96",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/96.png",
+    "dna": "411b0082e56c9474a282693c394822656dfa4951",
+    "edition": 96,
+    "date": 1702740985979,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #97",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/97.png",
+    "dna": "e62f0b577342d120871193c2aeccd26a14a3045d",
+    "edition": 97,
+    "date": 1702740986017,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #98",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/98.png",
+    "dna": "2cb0f5ca76bc2a976239a55ec664e147d6efbe9f",
+    "edition": 98,
+    "date": 1702740986046,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #99",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/99.png",
+    "dna": "dc4f4e09e1666fb49b62f1d57272a9375d21b7d5",
+    "edition": 99,
+    "date": 1702740986075,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #100",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/100.png",
+    "dna": "5eb05771671728c5e22115ec02a4684061fe3f0d",
+    "edition": 100,
+    "date": 1702740986104,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #101",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/101.png",
+    "dna": "e2a61636aee4b706d359d79083f2eb92646f9227",
+    "edition": 101,
+    "date": 1702740986133,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #102",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/102.png",
+    "dna": "cc10d241c17af03a74b885ff8fdef8b23afa6d78",
+    "edition": 102,
+    "date": 1702740986162,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #103",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/103.png",
+    "dna": "80cd676fa78053a86dc0e172708399c460f7459d",
+    "edition": 103,
+    "date": 1702740986193,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #104",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/104.png",
+    "dna": "7585741476e90cab2d226096399338e40a03aa98",
+    "edition": 104,
+    "date": 1702740986228,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #105",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/105.png",
+    "dna": "8f7abe77fe10d138f39749763d1f4429ad4f251d",
+    "edition": 105,
+    "date": 1702740986255,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #106",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/106.png",
+    "dna": "7e2813c0253c3dc262a39b0f0f1fe69991a4e4e5",
+    "edition": 106,
+    "date": 1702740986282,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #107",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/107.png",
+    "dna": "c0eee5deaaaf8d49e72eeece3ebd1d671f1d5591",
+    "edition": 107,
+    "date": 1702740986308,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #108",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/108.png",
+    "dna": "d46e47802ce8528d48f5604f16cf5e65a10bfe77",
+    "edition": 108,
+    "date": 1702740986336,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #109",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/109.png",
+    "dna": "e318e6f0b8cfe3b6c3827e836d324147755a0f2d",
+    "edition": 109,
+    "date": 1702740986366,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #110",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/110.png",
+    "dna": "26b778ecd7819d292df889aeb42e18c528403a7a",
+    "edition": 110,
+    "date": 1702740986395,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #111",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/111.png",
+    "dna": "2225d34586bf966a2f38de461ede6030029cd67d",
+    "edition": 111,
+    "date": 1702740986425,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #112",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/112.png",
+    "dna": "148d96b191cdb4d4688fa5e5fa349d9240b5bd6b",
+    "edition": 112,
+    "date": 1702740986454,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #113",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/113.png",
+    "dna": "d60d66e01cf0eec9316c5f032e3d8d1686b36f65",
+    "edition": 113,
+    "date": 1702740986482,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #114",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/114.png",
+    "dna": "f3b965d8a28134411597e3addf8b05d831af973b",
+    "edition": 114,
+    "date": 1702740986511,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #115",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/115.png",
+    "dna": "7890b2f64210119e90868ce8f84cf8db106af815",
+    "edition": 115,
+    "date": 1702740986539,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #116",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/116.png",
+    "dna": "6939a68058441cab0fe0db3a57c0cd9706dc3a08",
+    "edition": 116,
+    "date": 1702740986569,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #117",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/117.png",
+    "dna": "2de208e5c464073341123609fa0718d794adc478",
+    "edition": 117,
+    "date": 1702740986604,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #118",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/118.png",
+    "dna": "0e8b748bb284fe69344ea2b4a1d8e78864534eeb",
+    "edition": 118,
+    "date": 1702740986631,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #119",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/119.png",
+    "dna": "d2ac75bdab3930f6e1deadd8084fcfa985608b0f",
+    "edition": 119,
+    "date": 1702740986658,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #120",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/120.png",
+    "dna": "339a3e46fd833bd30732ba27879ef36d37486a0f",
+    "edition": 120,
+    "date": 1702740986685,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #121",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/121.png",
+    "dna": "ffdeb671b8ecaa4c7cdeb3a92f20ba79b8361f84",
+    "edition": 121,
+    "date": 1702740986715,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #122",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/122.png",
+    "dna": "b4ee2e8ff020fdcc17e38f789f85f87ec71e16b4",
+    "edition": 122,
+    "date": 1702740986746,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #123",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/123.png",
+    "dna": "caa94c54301f87520846cd6ff970f2c49ea23366",
+    "edition": 123,
+    "date": 1702740986776,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #124",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/124.png",
+    "dna": "fc6a75fec8ee7e5766f63b7e9c05c951c7248c87",
+    "edition": 124,
+    "date": 1702740986806,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #125",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/125.png",
+    "dna": "c3b7b13fc6fb91894638f5ff68a09cd1f51f84c6",
+    "edition": 125,
+    "date": 1702740986836,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #126",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/126.png",
+    "dna": "ba19be1201eef3abab68a58a1adff8b3c38af165",
+    "edition": 126,
+    "date": 1702740986864,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #127",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/127.png",
+    "dna": "5041b908c666496ef32a8396822765d298ed0ff9",
+    "edition": 127,
+    "date": 1702740986893,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #128",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/128.png",
+    "dna": "8c0c58021e31ec3fa1039dd30d74511f6b49dc48",
+    "edition": 128,
+    "date": 1702740986923,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #129",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/129.png",
+    "dna": "24c7abc88d4cec5379945b895af0f7a04a1f0860",
+    "edition": 129,
+    "date": 1702740986952,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #130",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/130.png",
+    "dna": "efd735d572d8f0bb4593b47636017dc6cd68cbc1",
+    "edition": 130,
+    "date": 1702740986987,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #131",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/131.png",
+    "dna": "1f60f1940cfe6327d6426f310bad66a63f0dc72b",
+    "edition": 131,
+    "date": 1702740987014,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #132",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/132.png",
+    "dna": "c4999f1ba587dc6ee70cb6f6ec214852c454c919",
+    "edition": 132,
+    "date": 1702740987041,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #133",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/133.png",
+    "dna": "6d0446c467e679a4e3fd8e81b12741cb6bbc1fd1",
+    "edition": 133,
+    "date": 1702740987068,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #134",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/134.png",
+    "dna": "57fe51ce2525d4cfcc87c657c963a6aa69d41982",
+    "edition": 134,
+    "date": 1702740987096,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #135",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/135.png",
+    "dna": "a64a7eb6e1f5fcb0a17c6cc0121273a506a97f89",
+    "edition": 135,
+    "date": 1702740987125,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #136",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/136.png",
+    "dna": "0495837579efb47657237dd95e40273c08e03bb2",
+    "edition": 136,
+    "date": 1702740987154,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #137",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/137.png",
+    "dna": "5c043f06171937458a3fda11a67a9744461fb1a9",
+    "edition": 137,
+    "date": 1702740987183,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #138",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/138.png",
+    "dna": "2ab6abc50cf24718fcc2d892f889730934e3a408",
+    "edition": 138,
+    "date": 1702740987212,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #139",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/139.png",
+    "dna": "77b5a28d0ead70043abd9100d2d8e67c513cb502",
+    "edition": 139,
+    "date": 1702740987245,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #140",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/140.png",
+    "dna": "4f0aca9842a612cb075532759981d2801ff4f9f3",
+    "edition": 140,
+    "date": 1702740987276,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #141",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/141.png",
+    "dna": "622b2205a48510ac1a027e408353a70eeca26f23",
+    "edition": 141,
+    "date": 1702740987305,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #142",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/142.png",
+    "dna": "116af2df98cbb85d41d3452da082f1a99d44800d",
+    "edition": 142,
+    "date": 1702740987335,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #143",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/143.png",
+    "dna": "6db7f001a09484f99af5bcddb795945f78619054",
+    "edition": 143,
+    "date": 1702740987370,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #144",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/144.png",
+    "dna": "d1daacce86522083fb793512564c79771c010b2a",
+    "edition": 144,
+    "date": 1702740987396,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #145",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/145.png",
+    "dna": "79e98b444f51f97589a3b187e61cee2e8d68b9d1",
+    "edition": 145,
+    "date": 1702740987423,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #146",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/146.png",
+    "dna": "9f399d9e73a5239feb29516b46e62cfd101e897c",
+    "edition": 146,
+    "date": 1702740987449,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #147",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/147.png",
+    "dna": "f81e0c36093fc5d7c31001e3144d2fb99cd82a53",
+    "edition": 147,
+    "date": 1702740987478,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #148",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/148.png",
+    "dna": "3b1b5650de2f9a2785dd163b763b8c846e4b7e87",
+    "edition": 148,
+    "date": 1702740987507,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #149",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/149.png",
+    "dna": "9a1094b14a1565486ec7dd8cff3b291023cb49b1",
+    "edition": 149,
+    "date": 1702740987537,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #150",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/150.png",
+    "dna": "d28c692529971a3ec90e4567cc208135ee4f5f27",
+    "edition": 150,
+    "date": 1702740987566,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #151",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/151.png",
+    "dna": "98a7b53a7a29e71d2791290f91aab83bb141b982",
+    "edition": 151,
+    "date": 1702740987596,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #152",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/152.png",
+    "dna": "b7e08f8acb313affc4daeb3f3bb0ba59829112fc",
+    "edition": 152,
+    "date": 1702740987625,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #153",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/153.png",
+    "dna": "e446421453d21b048397424ae455bd8e8bae90a3",
+    "edition": 153,
+    "date": 1702740987655,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #154",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/154.png",
+    "dna": "b19c706077042ef597bda1ddecfa66644cdc2f9a",
+    "edition": 154,
+    "date": 1702740987683,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #155",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/155.png",
+    "dna": "353392703424cd823dedf0ff557d62ac44a2316e",
+    "edition": 155,
+    "date": 1702740987713,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #156",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/156.png",
+    "dna": "3b67506e52abf798a104d9cba29c78edf83b0da2",
+    "edition": 156,
+    "date": 1702740987750,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #157",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/157.png",
+    "dna": "f4114d53e6da7c83a26fa35a0e7a90d31f42cbac",
+    "edition": 157,
+    "date": 1702740987777,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #158",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/158.png",
+    "dna": "12224d7dd07d76d05ede7674b472f661661f7467",
+    "edition": 158,
+    "date": 1702740987805,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #159",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/159.png",
+    "dna": "5e321356246cd56343b75c9eaa3b2f3b46e4f4fc",
+    "edition": 159,
+    "date": 1702740987833,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #160",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/160.png",
+    "dna": "44fbe7c7f09c5a44a8c04d990496b84ac454b3fe",
+    "edition": 160,
+    "date": 1702740987862,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #161",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/161.png",
+    "dna": "00780df00e32dab664ed038a6f7eed1178afe133",
+    "edition": 161,
+    "date": 1702740987891,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #162",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/162.png",
+    "dna": "7dd346b24f6b71120aea55ed170ca0ea13a685e4",
+    "edition": 162,
+    "date": 1702740987920,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #163",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/163.png",
+    "dna": "8f23ee29a31e3bb00e09d1b0b9d59cafeec02547",
+    "edition": 163,
+    "date": 1702740987950,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #164",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/164.png",
+    "dna": "a456aa7040e0d09a041f31c70486757c58e484e1",
+    "edition": 164,
+    "date": 1702740987979,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #165",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/165.png",
+    "dna": "b8294a78a34e71504e6949657ce4ef7f4a62aa1f",
+    "edition": 165,
+    "date": 1702740988008,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #166",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/166.png",
+    "dna": "bdae141dc163bd341248a6cc5a78303560cd97c0",
+    "edition": 166,
+    "date": 1702740988036,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #167",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/167.png",
+    "dna": "59d53ef893f5b8d13f72e2d12914eae3a8ef7a62",
+    "edition": 167,
+    "date": 1702740988065,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #168",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/168.png",
+    "dna": "2adbe452baabffb8b56e98ca107185523f592d41",
+    "edition": 168,
+    "date": 1702740988094,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #169",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/169.png",
+    "dna": "08de5f923341308d3f4330c26887c21cefaaba59",
+    "edition": 169,
+    "date": 1702740988129,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #170",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/170.png",
+    "dna": "ed179cdfd4550bc5ca0a8cf89f1147327e0431c7",
+    "edition": 170,
+    "date": 1702740988156,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #171",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/171.png",
+    "dna": "1eb4e62d34dfcea000fddb4ea85bc5beebf4827a",
+    "edition": 171,
+    "date": 1702740988184,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #172",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/172.png",
+    "dna": "8f280f6bac98f860019d9fc332f264713281e68a",
+    "edition": 172,
+    "date": 1702740988213,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #173",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/173.png",
+    "dna": "80792229794f561afb4c63f62d7b8c79c02c000f",
+    "edition": 173,
+    "date": 1702740988242,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #174",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/174.png",
+    "dna": "fb3e3fa37dc0f17ac2e3c0d00322b236aa015ef3",
+    "edition": 174,
+    "date": 1702740988273,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #175",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/175.png",
+    "dna": "1fbbd4240ee5a6ad7bc2c6221243fbe449300fd4",
+    "edition": 175,
+    "date": 1702740988303,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #176",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/176.png",
+    "dna": "e6eff9c5bd93060d33c7e1dc1446e2050db8a484",
+    "edition": 176,
+    "date": 1702740988332,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #177",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/177.png",
+    "dna": "93531e4aba4b6f41deae5799e389db32b3c68eaf",
+    "edition": 177,
+    "date": 1702740988361,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #178",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/178.png",
+    "dna": "29e80cd0cae42284128a602131e874a13efa3d4d",
+    "edition": 178,
+    "date": 1702740988391,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #179",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/179.png",
+    "dna": "605b0d34a6af5e03cb2302d464deb720603302ff",
+    "edition": 179,
+    "date": 1702740988422,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #180",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/180.png",
+    "dna": "35a02e1ae568270f636799f1b19d4c7dfeeedf10",
+    "edition": 180,
+    "date": 1702740988452,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #181",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/181.png",
+    "dna": "eae47005830e3da71150c47dba9f432e6a941622",
+    "edition": 181,
+    "date": 1702740988483,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Grapefruit"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #182",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/182.png",
+    "dna": "fcc4d35e1e70dca6c06a6d9a2e4ac0bcf1b8b7e4",
+    "edition": 182,
+    "date": 1702740988521,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #183",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/183.png",
+    "dna": "bc822b6155936819d116269ecec39cd141662f79",
+    "edition": 183,
+    "date": 1702740988551,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "DarkBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #184",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/184.png",
+    "dna": "1d76aa61409b26db74a7bb8a6c3fad9550d010b8",
+    "edition": 184,
+    "date": 1702740988579,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #185",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/185.png",
+    "dna": "f92aa316473a78cdbe9a2c47405308c1139ade34",
+    "edition": 185,
+    "date": 1702740988607,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #186",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/186.png",
+    "dna": "c2fda8ec863e0d42401da57a8d52847494c767af",
+    "edition": 186,
+    "date": 1702740988641,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #187",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/187.png",
+    "dna": "6d576ccf8bf4fbed2d4085a18b182f2bf28dc291",
+    "edition": 187,
+    "date": 1702740988670,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #188",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/188.png",
+    "dna": "4e90875ca3c591b98c2061754abe13cacecda4f8",
+    "edition": 188,
+    "date": 1702740988698,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SpringGreen"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #189",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/189.png",
+    "dna": "6022ed92fe1aa76beffc13513b32a19e674d6f75",
+    "edition": 189,
+    "date": 1702740988735,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #190",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/190.png",
+    "dna": "bf0f70fe093a80bc33c359accf659671cb7ca26d",
+    "edition": 190,
+    "date": 1702740988767,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "SkyBlue"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #191",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/191.png",
+    "dna": "4bd45c5b3f85bccd60391dbea00f8bcf8f71ef3d",
+    "edition": 191,
+    "date": 1702740988803,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #192",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/192.png",
+    "dna": "4bbb4589d15ed9b3950da06c84c9ccd351e721b4",
+    "edition": 192,
+    "date": 1702740988855,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #193",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/193.png",
+    "dna": "c27c88ed451cccefc3f652285454c1f543f078db",
+    "edition": 193,
+    "date": 1702740988891,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #194",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/194.png",
+    "dna": "6ddaa705efb4424e0aeb33e72304ed022abd851c",
+    "edition": 194,
+    "date": 1702740988922,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "BlueCyan"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #195",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/195.png",
+    "dna": "8ee83fd30599b4e62452a275cc25873ad52ee243",
+    "edition": 195,
+    "date": 1702740988956,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #196",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/196.png",
+    "dna": "52b282d53253126dcfe54a4b330a62ce90625280",
+    "edition": 196,
+    "date": 1702740989004,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #197",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/197.png",
+    "dna": "970933bf996cf2c99e0d26b7ac607704a873a205",
+    "edition": 197,
+    "date": 1702740989033,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "YellowCyan"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "DarkGreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #198",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/198.png",
+    "dna": "321daaf1833abcbceb65f5771eb3fc2e1d2e75a1",
+    "edition": 198,
+    "date": 1702740989071,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Globe House NFT #199",
+    "description": "Houses",
+    "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmSnjcuvVSBqoGrcrWn8HLZbHuzE5VLMW1gGzJSveB1kLe/199.png",
+    "dna": "3083a14973d771c4d7610895885d4fecb12a0221",
+    "edition": 199,
+    "date": 1702740989106,
+    "attributes": [
+      {
+        "trait_type": "Wall",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Door",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Window",
+        "value": "PurpleGreen"
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Lemon"
+      },
+      {
+        "trait_type": "Chimney",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

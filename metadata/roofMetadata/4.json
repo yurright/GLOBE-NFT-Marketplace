@@ -1,0 +1,11 @@
+{
+  "name": "Globe_Roof #4",
+  "description": "Roof for Globe NFT",
+  "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmcHqwwcTbfA1jKtvG3aPjMeAyGiHwUM5fERo4hWSrJ8er/Roof-04-SkyBlue-20.png",
+  "attributes": [
+    {
+      "trait_type": "Roof",
+      "value": "SkyBlue"
+    }
+  ]
+}

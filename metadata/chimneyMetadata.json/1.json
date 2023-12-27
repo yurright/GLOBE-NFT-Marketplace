@@ -1,0 +1,11 @@
+{
+  "name": "Globe_Chimney #1",
+  "description": "Chimney for Globe NFT",
+  "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmXBdyYMeRSEjfrWP95ErCfcoqHXN8D2Jssz229u9dGZME/Chimney-01-DarkGreen-70.png",
+  "attributes": [
+    {
+      "trait_type": "Chimney",
+      "value": "DarkGreen"
+    }
+  ]
+}

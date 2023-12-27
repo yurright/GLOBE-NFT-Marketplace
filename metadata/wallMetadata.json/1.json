@@ -1,0 +1,11 @@
+{
+  "name": "Globe_Wall #1",
+  "description": "Wall for Globe NFT",
+  "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmRoWLeqbiV7ShiPsbwifBr2Sd4c2jwEwa52FUzNuuu6HW/Wall-01-Cyan-20.png",
+  "attributes": [
+    {
+      "trait_type": "Wall",
+      "value": "Cyan"
+    }
+  ]
+}

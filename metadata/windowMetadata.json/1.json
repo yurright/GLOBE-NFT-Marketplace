@@ -1,0 +1,11 @@
+{
+  "name": "Globe_Window #1",
+  "description": "Window for Globe NFT",
+  "image": "https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmdaFEJctCW8R5iYmVdazRk5bBYAntc14HbZHF1mmDdMpf/Window-01-BlueCyan-70.png",
+  "attributes": [
+    {
+      "trait_type": "Window",
+      "value": "BlueCyan"
+    }
+  ]
+}
