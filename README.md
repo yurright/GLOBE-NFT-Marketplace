@@ -4,20 +4,24 @@ chimney part mint contract = 0x3C6F1Afd0162A227D00190daF63158D61b104446
 배포 성공, 발행 성공
 
 doorMetadata = https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmQhAcDevYmYUdARP6EvANPkYwmwTAvGWSvRgW5fnS2Xfk
-door part mint contract = 0xE62E75985c567Fc516A26beD8F67D30AAe0B1DC0
+door part mint contract = 0x0ef30cfb9e7870F69BB44c3abE32FB97D52B5E14
 [100, 150] #10 #15
+배포 성공, 발행 성공
 
 roofMetadata = https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmRYoTC9jT1hWbygbL5gQF1JKdNUvPuz1PZrDQRCYA71gy
-roof part mint contract = 0x7346D459fB599768749A2FBE1f10FeC245227289
+roof part mint contract = 0x2e7B71cD821990799538D71dAaFdA4dbEb7f28C2
 [140, 280, 12, 80, 88] #35 #20 #3 #20 #22
+배포 성공, 발행 성공
 
 wallMetadata = https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmNkgTgZSXJ8Rj3WDpfsMESRCeDNMvTuVyDfHiBSs4Asp9
-wall part mint contract = 0xbCDd022284B21BFeb80F1d38e49e1587a101F0B8
+wall part mint contract = 0xfC76472dC436937b998D55942B8497682725F261
 [60, 90, 30, 60, 60] #20 #30 #10 #20 #20
+배포 성공, 발행 성공
 
 windowMetadata = https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmQZWG1TVWk5FfPrKL1vNWn2KrUogLoRRujKfirbg85tKf
-window part mint contract = 0xb0953ED60ACcAFc5e95F5BD4422045e26e8BFc44
+window part mint contract = 0xF2d65b99DE64A92dF753764fdb6cAc2638B80041
 [140, 60] #70 #30
+배포 성공, 발행 성공
 
 unrevealedMetadata = https://beige-absent-caterpillar-719.mypinata.cloud/ipfs/QmemoRSr5KtZk1hvNG9X1kLk4US3HWyxkCJYQNtzUJgNpN
 

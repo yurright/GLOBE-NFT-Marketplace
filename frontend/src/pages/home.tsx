@@ -8,6 +8,10 @@ import ChimneyNFTCard from "../components/HomeNFTCard/ChimneyNFTCard";
 import DoorNFTCard from "../components/HomeNFTCard/DoorNFTCard";
 import {
   MINT_CHIMNEY_NFT_CONTRACT,
+  MINT_DOOR_NFT_CONTRACT,
+  MINT_ROOF_NFT_CONTRACT,
+  MINT_WALL_NFT_CONTRACT,
+  MINT_WINDOW_NFT_CONTRACT,
   SALE_PARTS_NFT_CONTRACT,
 } from "../abis/contractAddress";
 import WallNFTCard from "../components/HomeNFTCard/WallNFTCard";
